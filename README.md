@@ -19,10 +19,19 @@ System Definition: This intricate system is devised to grant administrative acce
 requiring the input of a specific username and password combination through a 
 secure login portal. Upon successful authentication, the administrator gains access 
 to a comprehensive Books page. 
+
 ![image](https://github.com/user-attachments/assets/1609a7df-9b9d-4864-a403-0cc8b8db0d64)
 On this page, the administrator can seamlessly incorporate new books into the 
 system by populating requisite fields, including Book Title, Author, Categories, 
 Quantity, and Price. Following this data entry, the administrator simply activates 
 the Save button, triggering an automatic update of the book inventory. The newly 
 added book is instantaneously reflected in the system.
+
 ![image](https://github.com/user-attachments/assets/eafcee1c-db19-4ab0-8b7e-85df6f9bad79)
+
+For book modifications, the administrator may select a book from the list, proceed 
+to edit the desired fields, and subsequently confirm the changes by clicking the edit 
+button. This results in an immediate adjustment of the corresponding data in the 
+system.
+
+
